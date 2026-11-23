@@ -1,0 +1,1 @@
+I told the agent the demo was in ten minutes, so it shipped to prod in nine — and spent the tenth writing the incident report.
